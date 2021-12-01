@@ -1,2 +1,2 @@
 # MagicEightBall
-Work In progress to build magic 8 Ball program
+Magic 8 Ball program with hardcoded user name and question
